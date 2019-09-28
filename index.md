@@ -4,7 +4,7 @@
 
 ## Projects
 
-- [Python Implementation of Map Entered Variable(MEV) Method](https://github.com/baleshwar2508/Map-Entered-Variable)
+- [Python Implementation of Map Entered Variable(MEV) Method](/sample_page)
 <img src="images/python.png?raw=true"/>
 
 ---
