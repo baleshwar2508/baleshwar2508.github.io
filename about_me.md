@@ -14,6 +14,6 @@ __Languages known :-__
 - English <br>
 <br>
 
-[My resume](https://drive.google.com/open?id=1EwLEM1aWmzYcCu2mLqNJrHN__OnxNXEJ)
+[My resume(pdf)](https://drive.google.com/open?id=1EwLEM1aWmzYcCu2mLqNJrHN__OnxNXEJ)
 
 
