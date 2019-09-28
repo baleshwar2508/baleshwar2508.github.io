@@ -19,7 +19,7 @@ expression (such as A+B’ C) into a cell , in addition to 0s , 1s, and don’t
 care terms.
 
 An entered variable k-map is shown in figure :
-![Screenshot](mev.png)
+![Screenshot](images/mev.png)
 
 The Boolean function obtained by solving the given K-map manually is given below -
 f = A!B + !BC
@@ -66,7 +66,7 @@ Open any editor of your choice and just copy and paste the raw version of projec
 __On Windows__
  
  Refer the screenshot below to run project.py in windows .
- ![Screenshot](python_windows.png)
+ ![Screenshot](images/python_windows.png)
  
 
 
@@ -81,7 +81,7 @@ To get the desired result , enter any number between 1 and 16 (including both) a
 ---
 
 ## The Python 3 code in action 
-![Screenshot](py_code@work.png)
+![Screenshot](images/py_code@work.png)
 (Using terminal in Ubuntu 18.04 )
 
 ---
