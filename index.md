@@ -14,13 +14,13 @@
 - [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
 JUNE 2019 -JULY 2019<br>
 <br>
-The Solar Photovoltaic O -Grid and On-grid : Design and Installation training was focused on design ,establishment and management of solarpower projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
+The Solar Photovoltaic Off-Grid and On-grid : Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
 <br><br>
 
 - [Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
 JAN 2019 -MAY 2019<br>
 <br>
-The ‘ Designing Digital Solution ‘ training program was o ered as initiative of Smart India Hackathon . It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
+The 'Designing Digital Solution' training program was offered as an initiative of Smart India Hackathon. It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
 ,etc.
 <br><br>
 
