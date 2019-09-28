@@ -5,7 +5,7 @@
 ### Projects
 
 [Python Implementation of Map Entered Variable(MEV) Method](/sample_page)
-<img src="images/python.jpg?raw=true"/>
+<img src="images/python.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
