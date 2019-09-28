@@ -4,7 +4,7 @@
 
 ## Projects
 
-[Python Implementation of Map Entered Variable(MEV) Method] (https://github.com/baleshwar2508/Map-Entered-Variable)
+- [Python Implementation of Map Entered Variable(MEV) Method](https://github.com/baleshwar2508/Map-Entered-Variable)
 <img src="images/python.png?raw=true"/>
 
 ---
@@ -32,7 +32,7 @@ program aimed at building the leaders of tomorrow.”
 ---
 ## Education
 
-- Integrated Engineering with specialisation in Power and Energy Engineering (2017-Present)
+- Integrated Engineering with specialisation in Power and Energy Engineering (2017-Present)<br>
 School of Engineering , [Central University of Karnataka](https://www.cuk.ac.in/), India
 
 --
