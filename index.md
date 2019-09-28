@@ -14,20 +14,20 @@
 - [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
 JUNE 2019 -JULY 2019<br>
 <br>
-The Solar Photovoltaic Off-Grid and On-grid : Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
+The [Solar Photovoltaic Off-Grid and On-grid](https://www.iacharya.in/site/courses/solar-photo-voltaic-off-grid-and-on-grid-design-and-installations/): Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
 <br><br>
 
 - [Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
 JAN 2019 -MAY 2019<br>
 <br>
-The 'Designing Digital Solution' training program was offered as an initiative of Smart India Hackathon. It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
+The [Designing Digital Solution](https://archive.swayam.gov.in/courses/5796-designing-digital-solution) training program was offered as an initiative of Smart India Hackathon. It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
 ,etc.
 <br><br>
 
 - [Internshala](http://internshala.com) - Intern (Online)<br>
 JAN 2018 - AUG 2018<br>
 <br>
-It is a campus ambassador program of Internshala , called as Internshala Student Partner . In the words of Internshala - “ Internshala Student Partner 10 (ISP ) is a 3-month transformational work-from-college
+It is a campus ambassador program of Internshala , called as [Internshala Student Partner](https://internshala.com/isp) . In the words of Internshala - “ Internshala Student Partner 10 (ISP ) is a 3-month transformational work-from-college
 program aimed at building the leaders of tomorrow.”
 <br><br>
 
