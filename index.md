@@ -2,20 +2,32 @@
 
 ---
 
-### Projects
+## Projects
 
-Python Implementation of Map Entered Variable(MEV) Method](/sample_page)
+Python Implementation of Map Entered Variable(MEV) Method (/sample_page)
 <img src="images/python.png?raw=true"/>
 
 ---
 
-### Experience
+## Experience
 
-- [Iacharya Silicon Limited](http://iacharya.com/main/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
+JUNE 2019 -JULY 2019<br>
+The Solar Photovoltaic O -Grid and On-grid : Design and Installation training was focused on design ,establishment and management of solarpower projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
+<br><br>
+
+- [Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
+JAN 2019 -MAY 2019<br>
+The ‘ Designing Digital Solution ‘ training program was o ered as initiative of Smart India Hackathon . It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
+,etc.
+<br><br>
+
+- [Internshala](http://internshala.com) - Intern (Online)<br>
+JAN 2018 - AUG 2018<br>
+It is a campus ambassador program of Internshala , called as Internshala Student Partner . In the words of Internshala - “ Internshala Student Partner 10 (ISP ) is a 3-month transformational work-from-college
+program aimed at building the leaders of tomorrow.”
+<br><br>
+
 
 ---
 ## Education
