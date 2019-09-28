@@ -3,8 +3,8 @@
 __My Intersts are :-__<br>
 - Solar Power Systems(PV)<br>
 - Machine Learning<br>
-- Data Science <br>
-<br>br>
+- Data Science
+<br><br>
 
 Besides the above , I love volleyball and athletics .
 <br><br>
