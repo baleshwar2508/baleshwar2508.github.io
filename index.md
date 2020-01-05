@@ -21,7 +21,8 @@ DEC 2019 <br>
 The internship involved designing a discrete-time sliding mode controller for a two-wheeled mobile robot .The controller helps the two-wheeled mobile robot , which is a kind of autonomous guided vehicle , for path tracking of baisc paths , namely straight line path and circular path .
 <br><br>
 
-- [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
+- <img align="left" width="100" height="100" src="images/isl.png?raw=true/100/100"/>
+[Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
 JUNE 2019 -JULY 2019<br>
 <br>
 The [Solar Photovoltaic Off-Grid and On-grid](https://www.iacharya.in/site/courses/solar-photo-voltaic-off-grid-and-on-grid-design-and-installations/): Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
