@@ -27,7 +27,8 @@ JUNE 2019 -JULY 2019<br>
 The [Solar Photovoltaic Off-Grid and On-grid](https://www.iacharya.in/site/courses/solar-photo-voltaic-off-grid-and-on-grid-design-and-installations/): Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
 <br><br>
 
-- [Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
+- <img align="left" width="100" height="100" src="images/sih.jpeg?raw=true/100/100"/>
+[Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
 JAN 2019 -MAY 2019<br>
 <br>
 The [Designing Digital Solution](https://archive.swayam.gov.in/courses/5796-designing-digital-solution) training program was offered as an initiative of Smart India Hackathon. It provides 45+ hours of training on various topics like Machine Learning , Fundamentals of Design , Node js
