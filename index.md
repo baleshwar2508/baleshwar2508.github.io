@@ -13,7 +13,7 @@
 ---
 
 ## Experience
-<img align="left" width="100" height="100" src="imgaes/dic_logo.png/100/100">
+<img align="left" width="100" height="100" src="images/dic_logo.png/100/100">
 
 - [Design Innovation Center, Indian Institute of Technology Roorkee](https://www.iitr.ac.in/dic/) - Intern<br>
 DEC 2019 <br>
