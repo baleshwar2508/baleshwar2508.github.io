@@ -27,7 +27,7 @@ JUNE 2019 -JULY 2019<br>
 The [Solar Photovoltaic Off-Grid and On-grid](https://www.iacharya.in/site/courses/solar-photo-voltaic-off-grid-and-on-grid-design-and-installations/): Design and Installation training was focused on design ,establishment and management of solar power projects. It prepares the candidate to become new entrepreneurs in Solar Energy sector .
 <br><br>
 
-- <img align="left" width="150" height="150" src="images/sih.jpeg?raw=true/150/150"/>
+- <img align="left" width="100" height="100" src="images/sih.jpeg?raw=true/100/100"/>
 [Smart India Hackathon](http://sih.gov.in) -Trainee (Online)<br>
 JAN 2019 -MAY 2019<br>
 <br>
@@ -35,7 +35,7 @@ The [Designing Digital Solution](https://archive.swayam.gov.in/courses/5796-desi
 ,etc.
 <br><br>
 
-- <img align="left" width="200" height="50" src="images/internshala_logo.png?raw=true/200/50"/>
+- <img align="left" width="100" height="100" src="images/is_logo.png?raw=true/100/100"/>
 [Internshala](http://internshala.com) - Intern (Online)<br>
 JAN 2018 - AUG 2018<br>
 <br>
