@@ -21,7 +21,7 @@ DEC 2019 <br>
 The internship involved designing a discrete-time sliding mode controller for a two-wheeled mobile robot .The controller helps the two-wheeled mobile robot , which is a kind of autonomous guided vehicle , for path tracking of baisc paths , namely straight line path and circular path .
 <br><br>
 
-- <img align="left" width="100" height="100" src="images/isl.png?raw=true/100/100"/>
+- <img align="left" width="50" height="50" src="images/isl.png?raw=true/50/50"/>
 [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
 JUNE 2019 -JULY 2019<br>
 <br>
