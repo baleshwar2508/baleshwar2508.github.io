@@ -52,6 +52,8 @@ School of Engineering , [Central University of Karnataka](https://www.cuk.ac.in/
 <br><br>
 - [Deep Learning Onramp](https://matlabacademy.mathworks.com/progress/share/report.html?id=7f5db757-a4b8-4d78-b411-7706193b08f2)
 <br><br>
+- [Machine Learning for Engineering and Science Applications](https://drive.google.com/file/d/1iGY0IUgRbRlp27-Di0Z3v9QPH01QhsJ3/view)
+<br><br>
 
 --
 
