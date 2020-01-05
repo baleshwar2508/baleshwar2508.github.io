@@ -36,7 +36,6 @@ The [Designing Digital Solution](https://archive.swayam.gov.in/courses/5796-desi
 <br><br>
 
 - <img align="left" width="50" height="50" src="images/is_logo.png?raw=true/50/50"/>
-
 [Internshala](http://internshala.com) - Intern (Online)<br>
 JAN 2018 - AUG 2018<br>
 <br>
