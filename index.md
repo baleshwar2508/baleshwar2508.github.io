@@ -35,7 +35,8 @@ The [Designing Digital Solution](https://archive.swayam.gov.in/courses/5796-desi
 ,etc.
 <br><br>
 
-- [Internshala](http://internshala.com) - Intern (Online)<br>
+- - <img align="left" width="200" height="100" src="images/internshala_logo.png?raw=true/200/100"/>
+[Internshala](http://internshala.com) - Intern (Online)<br>
 JAN 2018 - AUG 2018<br>
 <br>
 It is a campus ambassador program of Internshala , called as [Internshala Student Partner](https://internshala.com/isp) . In the words of Internshala - “ Internshala Student Partner 10 (ISP ) is a 3-month transformational work-from-college
