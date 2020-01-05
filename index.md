@@ -11,6 +11,12 @@
 
 ## Experience
 
+- [Design Innovation Center,Indian Institute of Technology Roorkee](https://www.iitr.ac.in/dic/) - Intern<br>
+DEC 2019<br>
+<br>
+The internship involved designing a discrete-time sliding controller for a two-wheeled mobile robot .The controller helps the two-wheeled mobile robot , which is a kind of autonomous guided vehicle , for path tracking of baisc paths , namely straight line path and circular path .
+<br><br>
+
 - [Iacharya Silicon Limited](http://iacharya.com/main/) - Trainee (Online)<br>
 JUNE 2019 -JULY 2019<br>
 <br>
