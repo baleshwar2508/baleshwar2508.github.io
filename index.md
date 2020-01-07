@@ -7,7 +7,7 @@
 - [Python Implementation of Map Entered Variable(MEV) Method](https://github.com/baleshwar2508/Map-Entered-Variable)
 <img src="images/python.png?raw=true"/> <br>
 
-- [Design of Discrete-time Sliding Mode Controller for Two-wheeled Mobile Robot](https://drive.google.com/open?id=0B6cvaukIj8Pj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)<br>
+- [Design of Discrete-time Sliding Mode Controller for Two-wheeled Mobile Robot](https://drive.google.com/open?id=0B6cvaukIjPj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)<br>
 <img width ="600" height = "300" src="images/poster_robot.png?raw=true"/> 
 <br>
 
