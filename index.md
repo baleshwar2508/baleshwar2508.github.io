@@ -8,7 +8,7 @@
 <img src="images/python.png?raw=true"/> <br>
 
 - [Design of Discrete-time Sliding Mode Controller for Two-wheeled Mobile Robot](https://drive.google.com/open?id=0B6cvaukIj8Pj5NUVWb0lETkVGZWhBT2pCNEo1Mm1sM0hxSnY4)
-<img width ="800" height = "300" src="images/poster_robot.png?raw=true"/> <br><br>
+<img width ="600" height = "300" src="images/poster_robot.png?raw=true"/> <br><br>
 <br>
 
 ---
